@@ -1,6 +1,6 @@
 # CITATION Files
 
-In 2013 Owen Wilson, Fellow of the Software Sustainability Institute, published a simple but effective idea:
+In 2013 Robin Wilson, Fellow of the Software Sustainability Institute, published a simple but effective idea:
 
 ```
 Put a plaintext file named CITATION in the root directory of your code, and put information in it about how to cite your software. Go on, do it now – it’ll only take two minutes!
